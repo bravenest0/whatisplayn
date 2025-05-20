@@ -1,3 +1,4 @@
+# V 1.0.0
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import time
